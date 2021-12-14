@@ -1,3 +1,5 @@
+<img align="right" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+
 ## Trabalho Final - Disciplina de HTML - Téc. de Informática:
 
 * Desenvolver um site em HTML e PHP de tema livre e seguindo alguns requisitos, como:
