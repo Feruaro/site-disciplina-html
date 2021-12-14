@@ -1,5 +1,3 @@
-<img align="right" height="200em" src="https://github.com/Feruaro/site-disciplina-html/blob/master/site/img/favicon/circulo.jpg"/>
-
 ## Trabalho Final - Disciplina de HTML - Téc. de Informática:
 
 * Desenvolver um site em HTML e PHP de tema livre e seguindo alguns requisitos, como:
